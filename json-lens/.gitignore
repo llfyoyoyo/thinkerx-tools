@@ -1,0 +1,8 @@
+# Qoder Sites 发布描述符与本地编辑记录（工具生成，非源码）
+*.qoder.site
+.qoder/
+
+# 依赖与临时产物
+node_modules/
+dist/
+*.log
